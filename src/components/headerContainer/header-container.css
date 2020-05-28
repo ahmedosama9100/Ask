@@ -1,0 +1,8 @@
+.single-card-container {
+  background-color: white;
+  border-radius: 0 0 7px 7px;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 1%;
+  width: 60%;
+}

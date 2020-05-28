@@ -1,0 +1,27 @@
+.question-card {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: auto;
+  margin-bottom: 20px;
+  word-wrap: break-word;
+  width: 70%;
+}
+
+.question-header {
+  font-family: inherit;
+  font-size: 1.7rem;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.question-description {
+  color: #6e6e6e;
+  font-family: inherit;
+  font-size: 1.2rem;
+  line-height: 1.3rem;
+  margin-bottom: 20px;
+}
+
+#question-options {
+  display: flex;
+  justify-content: flex-end;
+}

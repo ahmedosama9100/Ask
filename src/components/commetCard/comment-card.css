@@ -1,0 +1,13 @@
+.comment-card-container {
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: white;
+  border-radius: 7px;
+  margin: 10px auto;
+  padding: 5px 10px;
+  width: 60%;
+}
+
+.comment {
+  font-size: 1.3rem;
+  font-weight: 500;
+}

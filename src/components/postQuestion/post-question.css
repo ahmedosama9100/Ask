@@ -1,0 +1,32 @@
+.post-question-container {
+  position: relative;
+  width: 100%;
+}
+
+.add-question-header {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.add-question-description {
+  display: block;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 1.1rem;
+  outline: none;
+  resize: none;
+  margin: 30px auto;
+  padding: 5px 7px;
+  height: 100px;
+  width: 80%;
+}
+
+.post-question-button {
+  position: absolute;
+  right: 0;
+  bottom: 1px;
+}
+
+.post-question-button:hover {
+  background-color: #065fd4;
+  color: #151515;
+}
